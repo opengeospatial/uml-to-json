@@ -5,7 +5,7 @@ This repository is used for maintaining the Best Practice for OGC - UML to JSON 
 
 ## Intellectual Property Rights
 
-The content of this repository is copyrighted by the Open Geospatial Consortium (OGC) and may be [licensed](https://github.com/opengeospatial/uml-to-json//refs/heads/main/LICENSE) for designated purposes.
+The content of this repository is copyrighted by the Open Geospatial Consortium (OGC) and may be [licensed](https://github.com/opengeospatial/uml-to-json/blob/main/LICENSE) for designated purposes.
 
 Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. The Open Geospatial Consortium shall not be held responsible for identifying any or all such patent rights.
 
